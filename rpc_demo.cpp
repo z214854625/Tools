@@ -20,6 +20,8 @@
 #include <utility>
 #include <vector>
 
+// rpc demo for learning
+
 namespace mini_rpc {
 
 class ByteBuffer {
